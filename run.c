@@ -5,7 +5,7 @@
 #include "util.h"
 
 void *base = 0;
-
+// so hard
 p_meta find_meta(p_meta *last, size_t size) {
   p_meta index = base;
   p_meta result = base;
